@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Chemical and Biomolecular Engineering (AI Concentration), Hong Kong University of Science and Technology, 2027 (expected)
-* Msc in Electronic Engineering, Hong Kong University of Science and Technology, 2023
+* M.Sc in Electronic Engineering, Hong Kong University of Science and Technology, 2023
 * B.Eng in Information engineering, Nanjing University of Aeronautics and Astronautics, 2022
 
 Publications
@@ -34,12 +34,12 @@ Work experience
 * Aug. 2022- Jun. 2023: Research Assistant
   * **Location:** Smart lab in HKUST
   * **Supervisor:** Professor Hao CHEN
-  * **Main work:** Doing researches and experiments related to AI in medical imaging.
+  * **Main works:** Doing researches and experiments related to AI in medical imaging.
 
 * Jun. 2021 ‑Aug. 2021: Network Engineer
   * **Location:** Shanghai Aircraft Manufacturing Co. LTD
   * **Supervisor:** None
-  * **Main work:** Set up the Wireshark development environment; Wrote plugins for Wireshark; Wrote user instructions and developer instructions.
+  * **Main works:** Set up the Wireshark development environment; Wrote plugins for Wireshark; Wrote user instructions and developer instructions.
 
 Skills
 ======
