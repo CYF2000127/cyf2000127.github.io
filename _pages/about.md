@@ -12,7 +12,7 @@ About me
 ======
 I'm now a first year Ph.D student from Department of Chemical and Biological Engineering and Department of Computer Science and Engineering, HKUST, supervised by Prof.Hanyu GAO and Prof.Hao CHEN. 
 
-I received my B.Eng in Information Engineering from Nanjing University of Aeronautics and Astronautics and M.Sc in Electronic Engineering in HKUST. 
+I received my B.Eng in Information Engineering from Nanjing University of Aeronautics and Astronautics and M.Sc in Electronic Engineering from HKUST. 
 
 Research Interests
 ======
