@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yufan CHEN"
   pronouns         : "he/his"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : #"Ph.D student, Dept of CBE and CSE, HKUST"
   location         : "HONG KONG"
   employer         : "HKUST"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/CYF2000127"
+  github           : "CYF2000127"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
