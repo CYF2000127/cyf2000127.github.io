@@ -24,13 +24,13 @@ Publications
 Work experience
 ======
 * Aug. 2022- Jun. 2023: Research Assistant
-  * Smart lab in HKUST
-  * Supervisor: Professor Hao CHEN
+  * **Location:** Smart lab in HKUST
+  * **Supervisor:** Professor Hao CHEN
   * Two submitted paper and Two accepted, and contributor in another paper.
 
 * Jun. 2021 ‑Aug. 2021: Network Engineer
-  * Shanghai Aircraft Manufacturing Co. LTD
-  * Supervisor: None
+  * **Location:** Shanghai Aircraft Manufacturing Co. LTD
+  * **Location:**  None
   * Set up the Wireshark development environment; Wrote plugins for Wireshark; Wrote user instructions and developer instructions
 
 Skills
@@ -41,7 +41,7 @@ Skills
 
 Honours & Awards
 ======
-*  Hong Kong Postgraduate Scholarship recipient from 09/2023 in HKUST
+*  Hong Kong Postgraduate Scholarship since 09/2023 in HKUST
 *  First-class Academic Scholarship in 01/2020 in NUAA
 *  Second-class Academic Scholarship in 01/2019 and 01/2021 in NUAA
 *  Third-class Academic Scholarship in 06/2020 in NUAA
