@@ -15,6 +15,12 @@ Education
 * Msc in Electronic Engineering, Hong Kong University of Science and Technology, 2023
 * B.Eng in Information engineering, Nanjing University of Aeronautics and Astronautics, 2022
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
 * Aug. 2022- Jun. 2023: Research Assistant
@@ -22,43 +28,24 @@ Work experience
   * Supervisor: Professor Hao CHEN
   * Two submitted paper and Two accepted, and contributor in another paper.
 
-* Fall 2015: Network Engineer
+* Jun. 2021 ‑Aug. 2021: Network Engineer
   * Shanghai Aircraft Manufacturing Co. LTD
   * Supervisor: None
   * Set up the Wireshark development environment; Wrote plugins for Wireshark; Wrote user instructions and developer instructions
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** Python, Matlab, C, s s h , LATEX
+* **Python Libraries:** Pytorch, Pytorch Lightning, OpenCV, Sklearn, Numpy, Scipy, Matplotlib
+* **English:** IELT 6.5, CET 6
 
-Publications
+Honours & Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*  Hong Kong Postgraduate Scholarship recipient from 09/2023 in HKUST
+*  First-class Academic Scholarship in 01/2020 in NUAA
+*  Second-class Academic Scholarship in 01/2019 and 01/2021 in NUAA
+*  Third-class Academic Scholarship in 06/2020 in NUAA
+* National level of athletes
+* Top Ten Athletes of NUAA in 06/2019
+* Champion of Jiangsu Provincial College Students Basketball League (High Level Group) in 10/2019
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
