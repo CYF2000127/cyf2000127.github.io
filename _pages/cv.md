@@ -30,7 +30,7 @@ Work experience
 
 * Jun. 2021 ‑Aug. 2021: Network Engineer
   * **Location:** Shanghai Aircraft Manufacturing Co. LTD
-  * **Location:**  None
+  * **Supervisor:** None
   * Set up the Wireshark development environment; Wrote plugins for Wireshark; Wrote user instructions and developer instructions
 
 Skills
