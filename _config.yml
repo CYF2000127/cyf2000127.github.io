@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "CYF(1).png"
   name             : "Yufan CHEN"
-  pronouns         : "#he/his"  
+  pronouns         : #"he/his"  
   bio              : "Ph.D student"
   location         : "HONG KONG"
   employer         : "HKUST"
