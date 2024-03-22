@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2023
 venue: 'MICCAI'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/pdf/2303.13867.pdf'
 citation: 'Chen, Y., Lin, Y., Cheng, K. T., & Chen, H. (2023, October). Few Shot Medical Image Segmentation with Cross Attention Transformer. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 233-243). Cham: Springer Nature Switzerland.'
 ---
 
