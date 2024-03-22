@@ -2,7 +2,7 @@
 title: "Rethinking boundary detection in deep learning models for medical image segmentation"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: ''
+excerpt: '1'
 date: 2023
 venue: 'IPMI'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-34048-2_56'
