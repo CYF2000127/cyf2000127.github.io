@@ -17,9 +17,17 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition
+**Yufan Chen**, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao  
+Submitted to *2024, Journal of Cheminformatics*.
+
+### Few Shot Medical Image Segmentation with Cross Attention Transformer
+**Yufan Chen,** Yi Lin, Kwang-Ting Cheng, Hao Chen  
+In *2023, Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)*.
+
+### Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation
+Yi Lin, Dong Zhang, Xiao Fang, **Yufan Chen**, Kwang-Ting Cheng, Hao Chen  
+In *2023, Information Processing in Medical Imaging. (IPMI 2023)*.
   
 Work experience
 ======
