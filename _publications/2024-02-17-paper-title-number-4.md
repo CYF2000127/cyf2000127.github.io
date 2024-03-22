@@ -1,6 +1,7 @@
 ---
 title: "Few Shot Medical Image Segmentation with Cross Attention Transformer"
 collection: publications
+permalink: /publication/2024-02-17-paper-title-number-4
 date: 2023
 venue: 'MICCAI'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
