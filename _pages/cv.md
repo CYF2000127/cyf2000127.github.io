@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. 2022- Jun. 2023: Research Assistant
+  * Smart lab in HKUST
+  * Supervisor: Professor Hao CHEN
+  * Two submitted paper and Two accepted, and contributor in another paper.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Network Engineer
+  * Shanghai Aircraft Manufacturing Co. LTD
+  * Supervisor: None
+  * Set up the Wireshark development environment; Wrote plugins for Wireshark; Wrote user instructions and developer instructions
 
 * Summer 2015: Research Assistant
   * Github University
