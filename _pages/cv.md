@@ -43,7 +43,7 @@ Work experience
 
 Skills
 ======
-* **Programming Languages:** Python, Matlab, C, s s h , LATEX
+* **Programming Languages:** Python, Matlab, C, ssh, LATEX
 * **Python Libraries:** Pytorch, Pytorch Lightning, OpenCV, Sklearn, Numpy, Scipy, Matplotlib
 * **English:** IELT 6.5, CET 6
 
