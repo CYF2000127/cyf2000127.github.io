@@ -7,7 +7,7 @@ author_profile: true
 
 ### MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition
 **Yufan Chen**, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao  
-In *2024, Journal of cheminformatics*.
+Submitted to *2024, Journal of Cheminformatics*.
 
 [Paper](https://arxiv.org/abs/2403.03691) [Code](https://github.com/CYF2000127/MolNexTR)
 
