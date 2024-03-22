@@ -21,7 +21,7 @@ repository               : "https://YufanCHEN.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CYF(1).png"
+  avatar           : "CYF.png"
   name             : "Yufan CHEN"
   pronouns         : "he/his"  
   bio              : "Ph.D student"
