@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
 ### MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition
 **Yufan Chen**, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao  
-Submitted to *2024, Journal of Cheminformatics*.
+In *2025, Journal of Cheminformatics*.
 
-[[Paper](https://arxiv.org/abs/2403.03691)], [[Code](https://github.com/CYF2000127/MolNexTR)]
+[[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00926-w)], [[Code](https://github.com/CYF2000127/MolNexTR)]
 
 ### Few Shot Medical Image Segmentation with Cross Attention Transformer
 **Yufan Chen,** Yi Lin, Kwang-Ting Cheng, Hao Chen  
