@@ -19,7 +19,7 @@ Publications
 ======
 ### MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition
 **Yufan Chen**, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao  
-Submitted to *2024, Journal of Cheminformatics*.
+In *2025, Journal of Cheminformatics*.
 
 ### Few Shot Medical Image Segmentation with Cross Attention Transformer
 **Yufan Chen,** Yi Lin, Kwang-Ting Cheng, Hao Chen  
