@@ -5,7 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Use of Machine Learning and Large Language Models in Chemical Information Extraction
+**Yufan Chen**, Yuxuan Zhang, Haifan Zhou, Ching Ting Leung, and Hanyu Gao
+In *2026, Annual Review of Chemical and Biomolecular Engineering*.
 
+### Rethinking boundary detection in deep learning-based medical image segmentation
+Yi Lin, Dong Zhang, Xiao Fang, **Yufan Chen**, Kwang-Ting Cheng, Hao Chen  
+In *2025, Medical Image Analysis*.
+
+[[Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001628)], [[Code](https://github.com/CYF2000127/CTO)]
 
 ### MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition
 **Yufan Chen**, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao  
