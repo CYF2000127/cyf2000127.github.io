@@ -18,24 +18,29 @@ Education
 Publications
 ======
 ### Use of Machine Learning and Large Language Models in Chemical Information Extraction
-**Yufan Chen**, Yuxuan Zhang, Haifan Zhou, Ching Ting Leung, and Hanyu Gao
+**Yufan Chen**, Yuxuan Zhang, Haifan Zhou, Ching Ting Leung, Hanyu Gao
+
 In *2026, Annual Review of Chemical and Biomolecular Engineering*.
 
 ### Rethinking boundary detection in deep learning-based medical image segmentation
 Yi Lin, Dong Zhang, Xiao Fang, **Yufan Chen**, Kwang-Ting Cheng, Hao Chen  
+
 In *2025, Medical Image Analysis*.
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001628)], [[Code](https://github.com/CYF2000127/CTO)]
 ### MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition
 **Yufan Chen**, Ching Ting Leung, Yong Huang, Jianwei Sun, Hao Chen, Hanyu Gao  
+
 In *2025, Journal of Cheminformatics*.
 
 ### Few Shot Medical Image Segmentation with Cross Attention Transformer
 **Yufan Chen,** Yi Lin, Kwang-Ting Cheng, Hao Chen  
+
 In *2023, Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)*.
 
 ### Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation
 Yi Lin, Dong Zhang, Xiao Fang, **Yufan Chen**, Kwang-Ting Cheng, Hao Chen  
+
 In *2023, Information Processing in Medical Imaging. (IPMI 2023)*.
   
 Work experience
