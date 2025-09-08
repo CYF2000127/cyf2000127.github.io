@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Use of Machine Learning and Large Language Models in Chemical Information Extraction
-**Yufan Chen**, Yuxuan Zhang, Haifan Zhou, Ching Ting Leung, and Hanyu Gao
+**Yufan Chen**, Yuxuan Zhang, Haifan Zhou, Ching Ting Leung, and Hanyu Gao //
 In *2026, Annual Review of Chemical and Biomolecular Engineering*.
 
 ### Rethinking boundary detection in deep learning-based medical image segmentation
